@@ -6,7 +6,7 @@
 ##
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/g-luci">
+  <a href="https://github.com/g-luci">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=g-luci&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-luci&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
